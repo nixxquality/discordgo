@@ -33,7 +33,7 @@ type User struct {
 
 	// The user's username.
 	Username string `json:"username"`
-	
+
 	// The user's global display name, if set.
 	GlobalName string `json:"global_name"`
 
